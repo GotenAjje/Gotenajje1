@@ -6,7 +6,7 @@
   "author": "GotenAjje",
   "description": "Aggressive GMS Doze optimization for battery saving",
   "update": {
-    "url": "https://github.com/GotenAjje/Gotenajje1/releases",
+    "url": "https://github.com/GotenAjje/Gotenajje1/releases/latest/download/module.zip",
     "changelog": "Updated to version 1.1 with improved doze optimizations.",
     "support": "https://github.com/GotenAjje/Gotenajje"
   }
