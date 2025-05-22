@@ -1,13 +1,6 @@
 {
-  "id": "GMSDozeGoten",
-  "name": "GMS Doze",
-  "version": "1.2",
   "versionCode": 3,
-  "author": "GotenAjje",
-  "description": "Aggressive GMS Doze optimization for battery saving",
-  "update": {
-    "url": "https://github.com/GotenAjje/Gotenajje1/releases/latest/download/module.zip",
-    "changelog": "Updated to version 1.2 with further refined GMS Doze optimizations.",
-    "support": "https://github.com/GotenAjje/Gotenajje"
-  }
+  "version": "v1.2",
+  "zipUrl": "https://github.com/GotenAjje/Gotenajje1/releases/latest/download/module.zip",
+  "changelog": "Updated to version 1.2 with further refined GMS Doze optimizations."
 }
