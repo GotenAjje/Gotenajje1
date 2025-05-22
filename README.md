@@ -1,7 +1,7 @@
 # Gotenajje1
 ## 👋 Hi there, welcome to GotenProject - Magisk Module
 
-🚀 **GotenProject** is a Magisk module designed to bring additional features or custom modifications to Android systems — all without altering the system partition (systemless). Perfect for users who want deeper control over their devices.
+🚀 **GotenProject** is a Magisk module designed to bring additional features or custom modifications to Android systems — all without altering the system partition. Perfect for users who want deeper control over their devices.
 
 ---
 
