@@ -2,8 +2,8 @@
   "id": "GMSDozeGoten",
   "name": "GMS Doze",
   "version": "1.1",
-  "versionCode": "1.1",
-  "author": "GotenProject",
+  "versionCode": 2,
+  "author": "GotenAjje",
   "description": "Aggressive GMS Doze optimization for battery saving",
   "update": {
     "url": "https://github.com/GotenAjje/Gotenajje1/releases",
